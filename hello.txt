@@ -1,1 +1,1 @@
-hi from ramo1
+hi from merge inside ramo1
