@@ -1,1 +1,3 @@
-hi baba
+hi from merge inside ramo1
+
+fixing some shit
